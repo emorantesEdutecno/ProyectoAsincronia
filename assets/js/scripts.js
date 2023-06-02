@@ -24,7 +24,6 @@ const inicioProceso2 =()=>{
     // procesosTerminados = procesosTerminados + 1;
     incrementarConteo();
 };
-
 const inicioProceso3 = ()=>{
 
     let computador = {
